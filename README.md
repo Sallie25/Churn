@@ -10,12 +10,15 @@ Customer churn is a critical metric for businesses aiming to retain their custom
 The goal is to identify patterns and drivers of customer churn in a subscription-based business. By analyzing customer demographics, product usage, and satisfaction metrics, we aim to uncover key factors influencing churn and recommend strategies to improve retention.
 
 ##  Skills Demonstrated
-- SQL for data extraction and transformation  
+- Excel functions like `Index and Match`, `Vlookup`, `REPL()`
+- Powerquery
+- Powerpivot
+- Slicers
+- Pae Navigation
 - Data cleaning and preprocessing  
-- KPI development and dashboard design  
-- Exploratory Data Analysis (EDA)  
+- KPI development and dashboard design   
 - Insight generation and storytelling  
-- Visualization using BI tools (e.g., Power BI, Tableau)
+
 
 ## Data Sourcing
 - **Source Type**: Secondary  
@@ -31,9 +34,20 @@ The goal is to identify patterns and drivers of customer churn in a subscription
 - **Normalization**: Standardized numerical fields for comparison
 
 ---
+## **Visualization**
+The Report consist of 2 pages;
+
+**_Demographic Page_**
+
+![](Bank_churn_page_2.PNG)
+
+**_Deeper Insights page_**
+
+![](Bank_churn_page_1_corr.PNG)
 
 ##  KPI Analysis & Insights
-<img width="655" height="60" alt="Image" src="https://github.com/user-attachments/assets/3ea55ba2-3457-4cf3-8315-8f710dfbe224" />
+
+![](cards.png)
 
 
 ### 1. **Total Customers**
