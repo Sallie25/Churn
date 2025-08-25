@@ -1,4 +1,4 @@
-# Churn
+# Customer Churn Report
 
-<img width="1168" height="626" alt="Average_Bank_Balance_Vs_Churn_and_Retained" src="https://github.com/user-attachments/assets/4f62e137-f908-4cb2-b9a8-a30c4c905690" />
+![Random_store_image](https://github.com/user-attachments/assets/bc82e72b-cd42-44d9-a7e7-f9a79b262207)
 
